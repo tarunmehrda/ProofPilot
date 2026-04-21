@@ -1,0 +1,6 @@
+{
+  "name": "ProofPilot",
+  "description": "Upload evidence files, extract text, and generate structured complaint packages via AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
