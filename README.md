@@ -302,7 +302,7 @@ proofpilot/
 
 ## 📄 License
 
-MIT © [Your Name](https://github.com/your-username)
+MIT © [Tarun Kumar Meharda](https://github.com/tarunmeharda)
 
 ---
 
